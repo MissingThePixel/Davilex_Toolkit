@@ -1,0 +1,50 @@
+Davilex Toolkit - antivirus and file-handling review
+4 November 2026
+
+Packaging measures
+- Standard PyInstaller onedir distribution, UPX disabled, no self-extracting
+  onefile bootloader. Tcl/Tk, Pillow, NumPy and miniaudio are the included UI/viewer runtime.
+- Both EXEs embed the supplied DT icon and a system-DPI-aware manifest. Normal
+  asInvoker privileges; no administrator requirement in the application manifest.
+- DXWrapper DLLs are explicit sidecar resources, verified against pinned
+  SHA-256 values before use. Encoded wrapper Python modules are excluded from the
+  frozen application. Xidi and DDrawCompat remain explicit verified ingredients.
+- No research/debugger scripts, remote-process injection, drivers, services,
+  scheduled tasks, startup registration, downloads or updater in this package.
+- No antivirus exclusions, security-setting changes or detection-evasion code.
+
+Expected behaviours scanners may notice
+- Patching supported legacy EXE/DAT files is the application's core function.
+  Unsupported executable changes are rejected; matching filename alone is never
+  enough. Changed originals are journalled before modification.
+- DirectDraw/DirectInput/WinMM proxy DLLs and Xidi's input hooks are necessary
+  compatibility functions. Wine application DLL overrides are temporary and
+  recoverable, not a machine-wide Windows loader modification.
+- Windows UAC is requested only when a selected installation is not writable;
+  the foreground GUI itself stays unelevated. Miniaudio decodes audio locally. Optional user-supplied FFmpeg is a fallback; no FFmpeg executable is bundled.
+- The unsigned PyInstaller bootloader, legacy templates and proxy libraries can
+  still trigger heuristic/reputation detections. This source/package review is
+  not an antivirus scan or a guarantee of zero detections. No VirusTotal upload
+  was performed by this build; the owner plans to submit it independently.
+
+Game data and portability
+- No games folder, RCS archives, maps, music or movie assets in this release.
+- Original menu and engine files are read from the user's installation. Compact
+  patches reconstruct canonical compatibility images in memory, verify their
+  hashes, and require the input to match a supported complete build. No complete
+  menu/engine executable templates are bundled or cached on disk. Configuration
+  reference text and tiny patch recipes remain required runtime ingredients.
+- Launches patch the selected installation in place. Resolution changes do not
+  create a game copy. Original backups contain only changed files; completed
+  rollback scratch copies are removed. INI restoration snapshots are retained.
+- DLC installation deliberately creates converted assets inside Europe Racer;
+  missing reserved vehicle definitions are necessary for its expanded table.
+- RCS viewing reads archives directly; only audio previews/explicit exports use
+  temporary/extracted files, with preview scratch removed on closing the viewer.
+- Game paths beneath the toolkit are saved relative to it. Old absolute games
+  paths can rebase after a drive change, and missing paths do not block discovery.
+- A fresh backup journal records the installation as it exists when first patched.
+  Keep old work/install-backups separately if you want earlier pre-toolkit originals.
+
+Validation results and SHA-256 inventory accompany the final ZIP. Report any
+VirusTotal finding with the exact file path, hash, vendor and detection name.
