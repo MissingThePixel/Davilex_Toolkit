@@ -1,0 +1,18 @@
+{
+  "title": "Autobahn Raser II",
+  "status": "experimental; gameplay not yet validated",
+  "source_sha256": "17e8da1b6a8f69c998ad6eb239efa9465665729d837b779c8a39ffa9379e883e",
+  "patched_sha256": "756f5c09c2b8b929698c0071003974e828f145a8128677407256d4dbf1d9c80c",
+  "buffer_address": "0x51d200",
+  "capacity": 64,
+  "sites": [
+    "0x4334ae",
+    "0x4334d0",
+    "0x43350d",
+    "0x433532",
+    "0x433554",
+    "0x433592"
+  ],
+  "reason": "Use a dedicated writable buffer for CARS%d.DAT and the subsequent filename instead of formatting into the shared const empty-string fallback.",
+  "evidence": "analysis/autobahn2-stack-frames.json: sprintf called at 0x4334c0 with destination 0x4812ac"
+}

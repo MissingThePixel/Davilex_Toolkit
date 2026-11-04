@@ -1,0 +1,436 @@
+{
+  "title": "London Racer",
+  "status": "experimental; numerical and static validation only",
+  "source_directory": "C:\\Users\\Pat\\Desktop\\Davilex Games to Patch\\work\\London Racer-ddrawcompat",
+  "source_sha256": "1cc2e2053816d234c1cb1f81d25fcb76090fa498b60c1acf271bf908c3c4f50e",
+  "patched_sha256": "a6d1340729f7946fbb153a98faded0a099c53a51dc87e8fa34a2b4ffd525eafb",
+  "qpc_iat": "0x4a4120",
+  "sites": [
+    "0x46b6fa",
+    "0x46b8d6"
+  ],
+  "wrapper": "0x4a3cb0",
+  "state": "0x548190",
+  "placement": "verified .text padding",
+  "source_bytes": 835584,
+  "patched_bytes": 835584,
+  "appended_bytes_hex": "",
+  "threading": "Assumes the two game timer sites execute on the same game thread; runtime verification pending.",
+  "changes": [
+    {
+      "offset": 504,
+      "before": 165,
+      "after": 6
+    },
+    {
+      "offset": 505,
+      "before": 44,
+      "after": 45
+    },
+    {
+      "offset": 584,
+      "before": 144,
+      "after": 156
+    },
+    {
+      "offset": 440058,
+      "before": 255,
+      "after": 232
+    },
+    {
+      "offset": 440059,
+      "before": 21,
+      "after": 177
+    },
+    {
+      "offset": 440060,
+      "before": 32,
+      "after": 133
+    },
+    {
+      "offset": 440061,
+      "before": 65,
+      "after": 3
+    },
+    {
+      "offset": 440062,
+      "before": 74,
+      "after": 0
+    },
+    {
+      "offset": 440063,
+      "before": 0,
+      "after": 144
+    },
+    {
+      "offset": 440534,
+      "before": 255,
+      "after": 232
+    },
+    {
+      "offset": 440535,
+      "before": 21,
+      "after": 213
+    },
+    {
+      "offset": 440536,
+      "before": 32,
+      "after": 131
+    },
+    {
+      "offset": 440537,
+      "before": 65,
+      "after": 3
+    },
+    {
+      "offset": 440538,
+      "before": 74,
+      "after": 0
+    },
+    {
+      "offset": 440539,
+      "before": 0,
+      "after": 144
+    },
+    {
+      "offset": 670896,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 670897,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 670898,
+      "before": 0,
+      "after": 116
+    },
+    {
+      "offset": 670899,
+      "before": 0,
+      "after": 36
+    },
+    {
+      "offset": 670900,
+      "before": 0,
+      "after": 8
+    },
+    {
+      "offset": 670901,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 670902,
+      "before": 0,
+      "after": 255
+    },
+    {
+      "offset": 670903,
+      "before": 0,
+      "after": 21
+    },
+    {
+      "offset": 670904,
+      "before": 0,
+      "after": 32
+    },
+    {
+      "offset": 670905,
+      "before": 0,
+      "after": 65
+    },
+    {
+      "offset": 670906,
+      "before": 0,
+      "after": 74
+    },
+    {
+      "offset": 670908,
+      "before": 0,
+      "after": 133
+    },
+    {
+      "offset": 670909,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 670910,
+      "before": 0,
+      "after": 15
+    },
+    {
+      "offset": 670911,
+      "before": 0,
+      "after": 132
+    },
+    {
+      "offset": 670912,
+      "before": 0,
+      "after": 62
+    },
+    {
+      "offset": 670916,
+      "before": 0,
+      "after": 80
+    },
+    {
+      "offset": 670917,
+      "before": 0,
+      "after": 131
+    },
+    {
+      "offset": 670918,
+      "before": 0,
+      "after": 61
+    },
+    {
+      "offset": 670919,
+      "before": 0,
+      "after": 144
+    },
+    {
+      "offset": 670920,
+      "before": 0,
+      "after": 129
+    },
+    {
+      "offset": 670921,
+      "before": 0,
+      "after": 84
+    },
+    {
+      "offset": 670924,
+      "before": 0,
+      "after": 15
+    },
+    {
+      "offset": 670925,
+      "before": 0,
+      "after": 133
+    },
+    {
+      "offset": 670926,
+      "before": 0,
+      "after": 25
+    },
+    {
+      "offset": 670930,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 670931,
+      "before": 0,
+      "after": 6
+    },
+    {
+      "offset": 670932,
+      "before": 0,
+      "after": 163
+    },
+    {
+      "offset": 670933,
+      "before": 0,
+      "after": 148
+    },
+    {
+      "offset": 670934,
+      "before": 0,
+      "after": 129
+    },
+    {
+      "offset": 670935,
+      "before": 0,
+      "after": 84
+    },
+    {
+      "offset": 670937,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 670938,
+      "before": 0,
+      "after": 70
+    },
+    {
+      "offset": 670939,
+      "before": 0,
+      "after": 4
+    },
+    {
+      "offset": 670940,
+      "before": 0,
+      "after": 163
+    },
+    {
+      "offset": 670941,
+      "before": 0,
+      "after": 152
+    },
+    {
+      "offset": 670942,
+      "before": 0,
+      "after": 129
+    },
+    {
+      "offset": 670943,
+      "before": 0,
+      "after": 84
+    },
+    {
+      "offset": 670945,
+      "before": 0,
+      "after": 199
+    },
+    {
+      "offset": 670946,
+      "before": 0,
+      "after": 5
+    },
+    {
+      "offset": 670947,
+      "before": 0,
+      "after": 144
+    },
+    {
+      "offset": 670948,
+      "before": 0,
+      "after": 129
+    },
+    {
+      "offset": 670949,
+      "before": 0,
+      "after": 84
+    },
+    {
+      "offset": 670951,
+      "before": 0,
+      "after": 1
+    },
+    {
+      "offset": 670955,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 670956,
+      "before": 0,
+      "after": 6
+    },
+    {
+      "offset": 670957,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 670958,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 670959,
+      "before": 0,
+      "after": 4
+    },
+    {
+      "offset": 670960,
+      "before": 0,
+      "after": 43
+    },
+    {
+      "offset": 670961,
+      "before": 0,
+      "after": 5
+    },
+    {
+      "offset": 670962,
+      "before": 0,
+      "after": 148
+    },
+    {
+      "offset": 670963,
+      "before": 0,
+      "after": 129
+    },
+    {
+      "offset": 670964,
+      "before": 0,
+      "after": 84
+    },
+    {
+      "offset": 670966,
+      "before": 0,
+      "after": 27
+    },
+    {
+      "offset": 670967,
+      "before": 0,
+      "after": 21
+    },
+    {
+      "offset": 670968,
+      "before": 0,
+      "after": 152
+    },
+    {
+      "offset": 670969,
+      "before": 0,
+      "after": 129
+    },
+    {
+      "offset": 670970,
+      "before": 0,
+      "after": 84
+    },
+    {
+      "offset": 670972,
+      "before": 0,
+      "after": 137
+    },
+    {
+      "offset": 670973,
+      "before": 0,
+      "after": 6
+    },
+    {
+      "offset": 670974,
+      "before": 0,
+      "after": 137
+    },
+    {
+      "offset": 670975,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 670976,
+      "before": 0,
+      "after": 4
+    },
+    {
+      "offset": 670977,
+      "before": 0,
+      "after": 88
+    },
+    {
+      "offset": 670978,
+      "before": 0,
+      "after": 94
+    },
+    {
+      "offset": 670979,
+      "before": 0,
+      "after": 194
+    },
+    {
+      "offset": 670980,
+      "before": 0,
+      "after": 4
+    }
+  ]
+}

@@ -1,2 +1,13 @@
+__pycache__/
+.venv/
+*.pyc
+/.cache/
+/work/
+/analysis/
+/exports/
+/games/
+/dist/
 *.zip
 *.sha256
+*.obj
+*.spec

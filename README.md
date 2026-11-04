@@ -71,6 +71,13 @@ Open an [issue](https://github.com/MissingThePixel/Davilex_Toolkit/issues) with 
 
 Not every track, car, resolution, race mode or controller combination has been tested. Paris–Marseille Racing can show intermittent road/camera judder. Original collision and traffic behaviour can also be unpredictable.
 
+## Source code
+
+The toolkit and RCS Explorer source is included in this repository. See
+[Building from source](BUILDING.md) for Python setup, executable packaging,
+native helper sources and test requirements. The native engine remake is a
+separate project and is not included here.
+
 ## Credits and license
 
 Created by **MissingThePixel**, with development and reverse-engineering assistance from **OpenAI Codex**.

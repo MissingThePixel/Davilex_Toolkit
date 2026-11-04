@@ -1,0 +1,6 @@
+# Preserve verified patch references and wrapper bytes exactly.
+resources/** -text
+*.png binary
+*.ico binary
+*.dll binary
+*.bin binary

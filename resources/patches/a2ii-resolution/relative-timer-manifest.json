@@ -1,0 +1,432 @@
+{
+  "title": "A2II",
+  "status": "experimental; numerical and static validation only",
+  "source_directory": "C:\\Users\\Pat\\Desktop\\Davilex Games to Patch\\work\\A2II-ddrawcompat",
+  "source_sha256": "551484bcf472407fd67ee8933c6f26b5a937d428e9e0cdf0cd72988dd003c2f9",
+  "patched_sha256": "0f367445cc5e1bdb7caef28a0f9b7dab4b0ddd238673903c46d0ec1de3813703",
+  "qpc_iat": "0x4fd438",
+  "sites": [
+    "0x441be0",
+    "0x441d20"
+  ],
+  "wrapper": "0x47e0c0",
+  "state": "0x4fc080",
+  "threading": "Assumes the two game timer sites execute on the same game thread; runtime verification pending.",
+  "changes": [
+    {
+      "offset": 384,
+      "before": 181,
+      "after": 22
+    },
+    {
+      "offset": 385,
+      "before": 208,
+      "after": 209
+    },
+    {
+      "offset": 464,
+      "before": 116,
+      "after": 140
+    },
+    {
+      "offset": 266208,
+      "before": 255,
+      "after": 232
+    },
+    {
+      "offset": 266209,
+      "before": 21,
+      "after": 219
+    },
+    {
+      "offset": 266210,
+      "before": 56,
+      "after": 196
+    },
+    {
+      "offset": 266211,
+      "before": 212,
+      "after": 3
+    },
+    {
+      "offset": 266212,
+      "before": 79,
+      "after": 0
+    },
+    {
+      "offset": 266213,
+      "before": 0,
+      "after": 144
+    },
+    {
+      "offset": 266528,
+      "before": 255,
+      "after": 232
+    },
+    {
+      "offset": 266529,
+      "before": 21,
+      "after": 155
+    },
+    {
+      "offset": 266530,
+      "before": 56,
+      "after": 195
+    },
+    {
+      "offset": 266531,
+      "before": 212,
+      "after": 3
+    },
+    {
+      "offset": 266532,
+      "before": 79,
+      "after": 0
+    },
+    {
+      "offset": 266533,
+      "before": 0,
+      "after": 144
+    },
+    {
+      "offset": 513216,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 513217,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 513218,
+      "before": 0,
+      "after": 116
+    },
+    {
+      "offset": 513219,
+      "before": 0,
+      "after": 36
+    },
+    {
+      "offset": 513220,
+      "before": 0,
+      "after": 8
+    },
+    {
+      "offset": 513221,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 513222,
+      "before": 0,
+      "after": 255
+    },
+    {
+      "offset": 513223,
+      "before": 0,
+      "after": 21
+    },
+    {
+      "offset": 513224,
+      "before": 0,
+      "after": 56
+    },
+    {
+      "offset": 513225,
+      "before": 0,
+      "after": 212
+    },
+    {
+      "offset": 513226,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513228,
+      "before": 0,
+      "after": 133
+    },
+    {
+      "offset": 513229,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513230,
+      "before": 0,
+      "after": 15
+    },
+    {
+      "offset": 513231,
+      "before": 0,
+      "after": 132
+    },
+    {
+      "offset": 513232,
+      "before": 0,
+      "after": 62
+    },
+    {
+      "offset": 513236,
+      "before": 0,
+      "after": 80
+    },
+    {
+      "offset": 513237,
+      "before": 0,
+      "after": 131
+    },
+    {
+      "offset": 513238,
+      "before": 0,
+      "after": 61
+    },
+    {
+      "offset": 513239,
+      "before": 0,
+      "after": 128
+    },
+    {
+      "offset": 513240,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513241,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513244,
+      "before": 0,
+      "after": 15
+    },
+    {
+      "offset": 513245,
+      "before": 0,
+      "after": 133
+    },
+    {
+      "offset": 513246,
+      "before": 0,
+      "after": 25
+    },
+    {
+      "offset": 513250,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 513251,
+      "before": 0,
+      "after": 6
+    },
+    {
+      "offset": 513252,
+      "before": 0,
+      "after": 163
+    },
+    {
+      "offset": 513253,
+      "before": 0,
+      "after": 132
+    },
+    {
+      "offset": 513254,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513255,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513257,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 513258,
+      "before": 0,
+      "after": 70
+    },
+    {
+      "offset": 513259,
+      "before": 0,
+      "after": 4
+    },
+    {
+      "offset": 513260,
+      "before": 0,
+      "after": 163
+    },
+    {
+      "offset": 513261,
+      "before": 0,
+      "after": 136
+    },
+    {
+      "offset": 513262,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513263,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513265,
+      "before": 0,
+      "after": 199
+    },
+    {
+      "offset": 513266,
+      "before": 0,
+      "after": 5
+    },
+    {
+      "offset": 513267,
+      "before": 0,
+      "after": 128
+    },
+    {
+      "offset": 513268,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513269,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513271,
+      "before": 0,
+      "after": 1
+    },
+    {
+      "offset": 513275,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 513276,
+      "before": 0,
+      "after": 6
+    },
+    {
+      "offset": 513277,
+      "before": 0,
+      "after": 139
+    },
+    {
+      "offset": 513278,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 513279,
+      "before": 0,
+      "after": 4
+    },
+    {
+      "offset": 513280,
+      "before": 0,
+      "after": 43
+    },
+    {
+      "offset": 513281,
+      "before": 0,
+      "after": 5
+    },
+    {
+      "offset": 513282,
+      "before": 0,
+      "after": 132
+    },
+    {
+      "offset": 513283,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513284,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513286,
+      "before": 0,
+      "after": 27
+    },
+    {
+      "offset": 513287,
+      "before": 0,
+      "after": 21
+    },
+    {
+      "offset": 513288,
+      "before": 0,
+      "after": 136
+    },
+    {
+      "offset": 513289,
+      "before": 0,
+      "after": 192
+    },
+    {
+      "offset": 513290,
+      "before": 0,
+      "after": 79
+    },
+    {
+      "offset": 513292,
+      "before": 0,
+      "after": 137
+    },
+    {
+      "offset": 513293,
+      "before": 0,
+      "after": 6
+    },
+    {
+      "offset": 513294,
+      "before": 0,
+      "after": 137
+    },
+    {
+      "offset": 513295,
+      "before": 0,
+      "after": 86
+    },
+    {
+      "offset": 513296,
+      "before": 0,
+      "after": 4
+    },
+    {
+      "offset": 513297,
+      "before": 0,
+      "after": 88
+    },
+    {
+      "offset": 513298,
+      "before": 0,
+      "after": 94
+    },
+    {
+      "offset": 513299,
+      "before": 0,
+      "after": 194
+    },
+    {
+      "offset": 513300,
+      "before": 0,
+      "after": 4
+    }
+  ]
+}

@@ -1,0 +1,1550 @@
+{
+  "version": 1,
+  "encoding": "cp1252",
+  "delimiter": ",",
+  "comma_escape": "@",
+  "line_break": "#",
+  "entries": [
+    {
+      "section": "HARRY",
+      "key": "0",
+      "id": "cwa05_00",
+      "source": "ik krijg jullie wel@ losgeslagen zondagsrijders.",
+      "target": "I'll get you@ you reckless Sunday drivers."
+    },
+    {
+      "section": "HARRY",
+      "key": "1",
+      "id": "cwa05_01",
+      "source": "go ahead drive my way.",
+      "target": "Go ahead@ drive my way."
+    },
+    {
+      "section": "HARRY",
+      "key": "2",
+      "id": "cwa05_02",
+      "source": "wie wetten breekt zal gestraft worden.",
+      "target": "Break the law and you'll be punished."
+    },
+    {
+      "section": "HARRY",
+      "key": "3",
+      "id": "cwa05_03",
+      "source": "jullie zullen hier nooit mee wegkomen@ dat beloof ik.",
+      "target": "You'll never get away with this@ I promise."
+    },
+    {
+      "section": "HARRY",
+      "key": "4",
+      "id": "cwa05_04",
+      "source": "denk maar niet dat je kunt ontsnappen.",
+      "target": "Don't think you can escape."
+    },
+    {
+      "section": "HARRY",
+      "key": "5",
+      "id": "cwa05_05",
+      "source": "je maakt geen enkele kans@ het recht zal altijd zegevieren.",
+      "target": "You haven't a chance@ justice always wins."
+    },
+    {
+      "section": "HARRY",
+      "key": "6",
+      "id": "cwa05_06",
+      "source": "er is geen uitweg meer@ waar je ook gaat ik zal er zijn.",
+      "target": "There's no way out. Wherever you go@ I'll be there."
+    },
+    {
+      "section": "HARRY",
+      "key": "7",
+      "id": "cwa05_07",
+      "source": "rij maar zo hard je kunt@ je bent toch omsingeld.",
+      "target": "Drive as fast as you like@ you're surrounded."
+    },
+    {
+      "section": "HARRY",
+      "key": "8",
+      "id": "cwa05_08",
+      "source": "kijk eens om je heen. het politienet sluit zich.",
+      "target": "Look around. The police net is closing in."
+    },
+    {
+      "section": "HARRY",
+      "key": "9",
+      "id": "cwa05_09",
+      "source": "wat je ook probeert je komt niet van me af.",
+      "target": "Whatever you try@ you won't shake me off."
+    },
+    {
+      "section": "HARRY",
+      "key": "10",
+      "id": "cwa05_10",
+      "source": "de weg is te klein voor ons beiden.",
+      "target": "This road isn't big enough for both of us."
+    },
+    {
+      "section": "HARRY",
+      "key": "11",
+      "id": "cwa05_11",
+      "source": "je verspilt jouw tijd en de mijne@ dit haal je nooit.",
+      "target": "You're wasting your time and mine@ you'll never make it."
+    },
+    {
+      "section": "HARRY",
+      "key": "12",
+      "id": "cwa05_12",
+      "source": "je redt het nooit voordat mijn blokkades zich sluiten.",
+      "target": "You won't make it before my roadblocks close."
+    },
+    {
+      "section": "HARRY",
+      "key": "13",
+      "id": "cwa05_13",
+      "source": "ik zal niet rusten tot ik je heb gepakt.",
+      "target": "I won't rest until I've caught you."
+    },
+    {
+      "section": "HARRY",
+      "key": "14",
+      "id": "cat05_00",
+      "source": "nu is het genoeg@ tijd voor extreme maatregelen!",
+      "target": "That's enough@ time for extreme measures!"
+    },
+    {
+      "section": "HARRY",
+      "key": "15",
+      "id": "cpg05_00",
+      "source": "je kunt vluchten maar je niet verstoppen.",
+      "target": "You can run@ but you can't hide."
+    },
+    {
+      "section": "HARRY",
+      "key": "16",
+      "id": "cpg05_01",
+      "source": "je had geluk deze keer maar je bent nog niet van me af.",
+      "target": "You got lucky this time@ but I'm not done with you."
+    },
+    {
+      "section": "HARRY",
+      "key": "17",
+      "id": "cpg05_05",
+      "source": "lach maar niet te vroeg je bent nog lang niet van me af.",
+      "target": "Don't laugh too soon. You haven't lost me yet."
+    },
+    {
+      "section": "HARRY",
+      "key": "18",
+      "id": "cko05_00",
+      "source": "je hebt mijn wagen beschadigd stuk tuig.",
+      "target": "You damaged my car@ you scum."
+    },
+    {
+      "section": "HARRY",
+      "key": "19",
+      "id": "cko05_02",
+      "source": "mijn wagen is total loss stelletje criminelen.",
+      "target": "My car's a write-off@ you criminals."
+    },
+    {
+      "section": "HARRY",
+      "key": "20",
+      "id": "cko05_04",
+      "source": "mijn wagen is aan gort gereden ok. nu ben ik echt pissig.",
+      "target": "My car's wrecked. OK@ now I'm really mad."
+    },
+    {
+      "section": "HARRY",
+      "key": "21",
+      "id": "ccb05_00",
+      "source": "unit 43...hier harry...sluit de blokkade!",
+      "target": "Unit 43... Harry here... close the roadblock!"
+    },
+    {
+      "section": "HARRY",
+      "key": "22",
+      "id": "ccb05_01",
+      "source": "attentie@ unit 5 en 23! racers in aantocht! sluit blokkades!",
+      "target": "Attention@ units 5 and 23! Racers approaching! Close the roadblocks!"
+    },
+    {
+      "section": "HARRY",
+      "key": "23",
+      "id": "ccb05_02",
+      "source": "iedereen op positie? sluit nu de blokkades!",
+      "target": "Everyone in position? Close the roadblocks now!"
+    },
+    {
+      "section": "HARRY",
+      "key": "24",
+      "id": "ccb05_03",
+      "source": "units paraat? sluit nu de blokkades!",
+      "target": "Units ready? Close the roadblocks now!"
+    },
+    {
+      "section": "HARRY",
+      "key": "25",
+      "id": "ccb05_04",
+      "source": "unit 18! unit 18! racers naderen jullie blokkade!",
+      "target": "Unit 18! Unit 18! Racers approaching your roadblock!"
+    },
+    {
+      "section": "SHADOW",
+      "key": "0",
+      "id": "cwa08_02",
+      "source": "wees alert@ de politie nadert met rasse schreden.",
+      "target": "Stay alert@ the police are closing in fast."
+    },
+    {
+      "section": "SHADOW",
+      "key": "1",
+      "id": "cwa08_03",
+      "source": "kijk goed vooruit. er kunnen zich politieafzettingen op je weg bevinden.",
+      "target": "Watch the road ahead. There may be police roadblocks."
+    },
+    {
+      "section": "SHADOW",
+      "key": "2",
+      "id": "crw08_01",
+      "source": "De politie weigert op te geven.",
+      "target": "The police refuse to give up."
+    },
+    {
+      "section": "SHADOW",
+      "key": "3",
+      "id": "crw08_02",
+      "source": "Harry denkt ons nu via blokkades te kunnen pakken.",
+      "target": "Harry thinks he can catch us with roadblocks now."
+    },
+    {
+      "section": "HONNEY",
+      "key": "0",
+      "id": "cwa07_00",
+      "source": "de politie nadert erg snel geef extra gas!",
+      "target": "The police are closing fast. Step on it!"
+    },
+    {
+      "section": "HONNEY",
+      "key": "1",
+      "id": "cwa07_02",
+      "source": "kijk goed vooruit er bevinden zich blokkades op jouw weg.",
+      "target": "Watch the road ahead. There are roadblocks in your path."
+    },
+    {
+      "section": "HONNEY",
+      "key": "2",
+      "id": "cwa07_03",
+      "source": "harry komt steeds dichterbij probeer hem voor te blijven.",
+      "target": "Harry's getting closer. Try to stay ahead of him."
+    },
+    {
+      "section": "HONNEY",
+      "key": "3",
+      "id": "cwa07_04",
+      "source": "iedereen goed opletten@ er zijn blokkades gesignaleerd.",
+      "target": "Everyone stay sharp@ roadblocks have been spotted."
+    },
+    {
+      "section": "HONNEY",
+      "key": "4",
+      "id": "cwa07_05",
+      "source": "attentie harry heeft versterking gekregen wees voorbereid.",
+      "target": "Watch out! Harry has reinforcements. Be ready."
+    },
+    {
+      "section": "HONNEY",
+      "key": "5",
+      "id": "cgp07_10",
+      "source": "je ligt op kop prima! probeer deze positie te behouden!",
+      "target": "You're in the lead! Great! Try to hold that position!"
+    },
+    {
+      "section": "HONNEY",
+      "key": "6",
+      "id": "cgi07_02",
+      "source": "nog een paar meters te gaan! haal eruit wat erin zit!",
+      "target": "Just a few metres to go! Give it all you've got!"
+    },
+    {
+      "section": "HONNEY",
+      "key": "7",
+      "id": "cgi07_04",
+      "source": "de etappe is bijna gereden laat nog even zien wat je waard bent.",
+      "target": "The stage is almost over. Show us what you're made of."
+    },
+    {
+      "section": "HONNEY",
+      "key": "8",
+      "id": "cgi07_05",
+      "source": "let op@ de finish nadert tijd voor een eindsprint.",
+      "target": "Watch out@ the finish is near. Time for a final sprint."
+    },
+    {
+      "section": "HONNEY",
+      "key": "9",
+      "id": "cpo07_04",
+      "source": "prachtig staaltje coureurschap@ je bent ze kwijt.",
+      "target": "Brilliant driving@ you've lost them."
+    },
+    {
+      "section": "HONNEY",
+      "key": "10",
+      "id": "cpo07_05",
+      "source": "de politie was heel dichtbij@ goede redding!",
+      "target": "The police were very close@ nice save!"
+    },
+    {
+      "section": "HONNEY",
+      "key": "11",
+      "id": "cko07_00",
+      "source": "Attentie@ probeer je schade te beperken.",
+      "target": "Watch out@ try to limit the damage."
+    },
+    {
+      "section": "HONNEY",
+      "key": "12",
+      "id": "cko07_01",
+      "source": "racer pas op beperk je schade.",
+      "target": "Careful@ racer! Keep the damage down."
+    },
+    {
+      "section": "HONNEY",
+      "key": "13",
+      "id": "cko07_03",
+      "source": "hou je schade in de gaten anders is jouw race zo voorbij!",
+      "target": "Watch your damage or your race will soon be over!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "0",
+      "id": "ccg00_00",
+      "source": "kom maar op ik kan je hebben@ man!",
+      "target": "Bring it on! I can take you@ man!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "1",
+      "id": "ccg00_02",
+      "source": "er kan er maar 1 op het erepodium staan jongen.",
+      "target": "There's only room for one on the winner's podium@ boy."
+    },
+    {
+      "section": "EDGAR",
+      "key": "2",
+      "id": "crw00_00",
+      "source": "die agent verstoort mijn ritme man.",
+      "target": "That cop's messing with my rhythm@ man."
+    },
+    {
+      "section": "EDGAR",
+      "key": "3",
+      "id": "crw00_01",
+      "source": "we moeten die harry dissen weet je.",
+      "target": "We need to ditch that Harry@ you know."
+    },
+    {
+      "section": "EDGAR",
+      "key": "4",
+      "id": "crw00_02",
+      "source": "oiieee.. ik word bang.. niet...",
+      "target": "Ooh... I'm scared... not!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "5",
+      "id": "cgp00_13",
+      "source": "met stip op 1! superstijger van de week !",
+      "target": "Straight in at number one! This week's biggest hit!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "6",
+      "id": "CCO00_00",
+      "source": "Raak mij niet aan@ man!",
+      "target": "Hands off@ man!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "7",
+      "id": "CCO00_01",
+      "source": "Kijk uit@ broeder!",
+      "target": "Watch out@ brother!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "8",
+      "id": "CCO00_02",
+      "source": "Zit me niet te dissen@ jongen!",
+      "target": "Don't diss me@ boy!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "9",
+      "id": "CCO00_03",
+      "source": "Hee@ je verstoort m'n ritme!",
+      "target": "Hey@ you're messing with my rhythm!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "10",
+      "id": "CCO00_04",
+      "source": "Wat maak je me nou@ jongen?",
+      "target": "What are you doing to me@ boy?"
+    },
+    {
+      "section": "EDGAR",
+      "key": "11",
+      "id": "CPA00_00",
+      "source": "Ik zie je later@ man!",
+      "target": "See you later@ man!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "12",
+      "id": "CPA00_01",
+      "source": "Dit is ontzettend vet@ man!",
+      "target": "This is seriously cool@ man!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "13",
+      "id": "CPA00_02",
+      "source": "De muziek is aan mijn zij@ weetje.",
+      "target": "The music's on my side@ you know."
+    },
+    {
+      "section": "EDGAR",
+      "key": "14",
+      "id": "CPA00_03",
+      "source": "Het werd tijd voor een solo!",
+      "target": "About time for a solo!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "15",
+      "id": "CPA00_04",
+      "source": "Ik rij net zo goed als ik speel!",
+      "target": "I drive as well as I play!"
+    },
+    {
+      "section": "EDGAR",
+      "key": "16",
+      "id": "CBP00_01",
+      "source": "Mijn solo komt nog@ weetje.",
+      "target": "My solo's still to come@ you know."
+    },
+    {
+      "section": "EDGAR",
+      "key": "17",
+      "id": "CBP00_02",
+      "source": "Die haast is nergens goed voor mensen!",
+      "target": "What's the rush@ people?"
+    },
+    {
+      "section": "EDGAR",
+      "key": "18",
+      "id": "CBP00_03",
+      "source": "Ho@ even een ritmestoornis maar ik kom terug!",
+      "target": "Whoa@ just lost the beat. I'll be back!"
+    },
+    {
+      "section": "JAMES",
+      "key": "0",
+      "id": "crw02_01",
+      "source": "we kunnen oom agent makkelijk aan jongens.",
+      "target": "We can handle the cops easily@ lads."
+    },
+    {
+      "section": "JAMES",
+      "key": "1",
+      "id": "cwa02_02",
+      "source": "Er komt politie jouw richting uit.",
+      "target": "The police are heading your way."
+    },
+    {
+      "section": "JAMES",
+      "key": "2",
+      "id": "cwa02_03",
+      "source": "de politie probeert onze missie te saboteren@ blijf alert.",
+      "target": "The police are trying to sabotage our mission@ stay alert."
+    },
+    {
+      "section": "JAMES",
+      "key": "3",
+      "id": "cgp02_01",
+      "source": "de missie verloopt gesmeerd. ik sta eerste!",
+      "target": "The mission's going smoothly. I'm in first!"
+    },
+    {
+      "section": "JAMES",
+      "key": "4",
+      "id": "cgp02_02",
+      "source": "ik lig op kop! alles gaat volgens schema!",
+      "target": "I'm in the lead! Everything's going to plan!"
+    },
+    {
+      "section": "JAMES",
+      "key": "5",
+      "id": "ccf02_02",
+      "source": "we zijn bijna bij de finish! wie geeft me nog een echte uitdaging?",
+      "target": "We're almost at the finish! Who can give me a real challenge?"
+    },
+    {
+      "section": "JAMES",
+      "key": "6",
+      "id": "ccg02_00",
+      "source": "kom op jongens! Ik houd wel van wat competitie!",
+      "target": "Come on@ lads! I do enjoy a little competition!"
+    },
+    {
+      "section": "JAMES",
+      "key": "7",
+      "id": "ccg02_01",
+      "source": "ik zal wat rustiger aan doen. dan kunnen jullie me bijhouden!",
+      "target": "I'll slow down a little. Then you can keep up!"
+    },
+    {
+      "section": "JAMES",
+      "key": "8",
+      "id": "cko02_00",
+      "source": "jullie hebben geluk@ mijn wagen laat me in de steek.",
+      "target": "You're lucky@ my car's letting me down."
+    },
+    {
+      "section": "JAMES",
+      "key": "9",
+      "id": "crw02_00",
+      "source": "Oud nieuws. Loze dreigementen van een slechterik.",
+      "target": "Old news. Empty threats from a villain."
+    },
+    {
+      "section": "JAMES",
+      "key": "10",
+      "id": "CCO02_02",
+      "source": "Zit je me uit te dagen? Graag!",
+      "target": "Are you challenging me? Gladly!"
+    },
+    {
+      "section": "JAMES",
+      "key": "11",
+      "id": "CCO02_03",
+      "source": "Pas op jij@ ik heb Champagne achterin.",
+      "target": "Careful@ I've got Champagne in the back."
+    },
+    {
+      "section": "JAMES",
+      "key": "12",
+      "id": "CCO02_04",
+      "source": "Pardon@ dit bedoelde ik niet met shaken.",
+      "target": "Excuse me@ that's not what I meant by shaken."
+    },
+    {
+      "section": "JAMES",
+      "key": "13",
+      "id": "CCO02_05",
+      "source": "Hee@ botsen heeft totaal geen stijl.",
+      "target": "Hey@ crashing into people has no style at all."
+    },
+    {
+      "section": "JAMES",
+      "key": "14",
+      "id": "CPA02_00",
+      "source": "Tja@ niet iedereen heeft het lef om in te halen.",
+      "target": "Well@ not everyone has the nerve to overtake."
+    },
+    {
+      "section": "JAMES",
+      "key": "15",
+      "id": "CPA02_03",
+      "source": "Ik weet het. het is niet leuk om ingehaald te worden.",
+      "target": "I know. Being overtaken isn't much fun."
+    },
+    {
+      "section": "JAMES",
+      "key": "16",
+      "id": "CPA02_04",
+      "source": "Sorry@ ik kan echt niet zachter.",
+      "target": "Sorry@ I really can't go any slower."
+    },
+    {
+      "section": "JAMES",
+      "key": "17",
+      "id": "CPA02_07",
+      "source": "Pardon@ mag ik je even passeren?",
+      "target": "Excuse me@ may I slip past?"
+    },
+    {
+      "section": "JAMES",
+      "key": "18",
+      "id": "CBP02_01",
+      "source": "Je begrijpt dat mijn voet uitgleed.",
+      "target": "You understand@ my foot slipped."
+    },
+    {
+      "section": "JAMES",
+      "key": "19",
+      "id": "CBP02_02",
+      "source": "Ik kom zo@ dames en heren.",
+      "target": "I'll be right there@ ladies and gentlemen."
+    },
+    {
+      "section": "JAMES",
+      "key": "20",
+      "id": "CBP02_03",
+      "source": "Wacht maar niet op mij mensen!",
+      "target": "Don't wait for me@ everyone!"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "0",
+      "id": "cwa04_03",
+      "source": "attentie@ partycrashers in zicht.",
+      "target": "Watch out@ party crashers ahead."
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "1",
+      "id": "ccf04_01",
+      "source": "De finish is in zicht. Wie gaat er met me naar de afterparty?",
+      "target": "The finish is in sight. Who's joining me at the afterparty?"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "2",
+      "id": "cgp04_00",
+      "source": "Joehoe! Ik sta eerste. Er is een feestje op komst!",
+      "target": "Woo-hoo! I'm in first. Time for a party!"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "3",
+      "id": "CCO04_00",
+      "source": "Wat wil je nou van me?",
+      "target": "What do you want from me?"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "4",
+      "id": "CCO04_01",
+      "source": "Hee@ ben je blind ofzo?",
+      "target": "Hey@ are you blind or something?"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "5",
+      "id": "CCO04_03",
+      "source": "Kijk uit joh@ babe op de weg.",
+      "target": "Watch out@ babe on the road."
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "6",
+      "id": "CCO04_04",
+      "source": "Hee@ je verknalt m'n feestje met dat gebots.",
+      "target": "Hey@ all this crashing is ruining my party."
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "7",
+      "id": "CPA04_03",
+      "source": "Het is groen hoor jongens!",
+      "target": "The light's green@ boys!"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "8",
+      "id": "CPA04_04",
+      "source": "Wie het eerst bij de bar is!",
+      "target": "First one to the bar!"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "9",
+      "id": "CPA04_05",
+      "source": "Ik zie jullie straks op de afterparty!",
+      "target": "See you at the afterparty!"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "10",
+      "id": "CBP04_01",
+      "source": "Wacht op mij@ jongens!",
+      "target": "Wait for me@ boys!"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "11",
+      "id": "CBP04_02",
+      "source": "Kan het wat zachter?",
+      "target": "Could you slow down a little?"
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "12",
+      "id": "CBP04_03",
+      "source": "Jongens@ 't is veel leuker met mij erbij.",
+      "target": "Boys@ it's much more fun with me around."
+    },
+    {
+      "section": "BARBARALLY",
+      "key": "13",
+      "id": "CBP04_04",
+      "source": "Waar is het feest? Dan kom ik ook!",
+      "target": "Where's the party? I'm coming too!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "0",
+      "id": "ccf01_03",
+      "source": "harry is gehaaider dan ik dacht.",
+      "target": "Harry's more of a shark than I thought."
+    },
+    {
+      "section": "TOMMY",
+      "key": "1",
+      "id": "cwa01_00",
+      "source": "pas op de politie is aan het vissen en wij zijn de gewenste vangst.",
+      "target": "Watch out! The cops are fishing and we're the catch."
+    },
+    {
+      "section": "TOMMY",
+      "key": "2",
+      "id": "cwa01_01",
+      "source": "hou die gehaaide politie in de gaten.",
+      "target": "Keep an eye on those police sharks."
+    },
+    {
+      "section": "TOMMY",
+      "key": "3",
+      "id": "cwa01_02",
+      "source": "woh er is echt een zee van politie om ons heen. dus kijk uit dude.",
+      "target": "Whoa@ we're in a sea of cops. Watch out@ dude."
+    },
+    {
+      "section": "TOMMY",
+      "key": "4",
+      "id": "cwa01_03",
+      "source": "de politie heeft haar netten uitgeworpen. Pas op!",
+      "target": "The police have cast their nets. Watch out!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "5",
+      "id": "ccf01_00",
+      "source": "de finish is in het vizier! En ik ga stormachtig snel!",
+      "target": "The finish is in sight! I'm going like a storm!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "6",
+      "id": "cgp01_00",
+      "source": "ok! de beste stuurman staat op de eerste plaats!",
+      "target": "OK! The best captain's in first place!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "7",
+      "id": "cgp01_01",
+      "source": "ok! ik sta eerste! ik ben iedereen voorbijgezeild!",
+      "target": "OK! I'm in first! I've sailed past everyone!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "8",
+      "id": "cgp01_02",
+      "source": "ok! de juiste golf bracht mij op de eerste plaats!",
+      "target": "OK! The right wave carried me into first!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "9",
+      "id": "CCO01_00",
+      "source": "Hee@ relax dude.",
+      "target": "Hey@ relax@ dude."
+    },
+    {
+      "section": "TOMMY",
+      "key": "10",
+      "id": "CCO01_01",
+      "source": "Wil je me tot zinken brengen@ ofzo?",
+      "target": "Are you trying to sink me or something?"
+    },
+    {
+      "section": "TOMMY",
+      "key": "11",
+      "id": "CCO01_02",
+      "source": "Whoa@ orkaankracht!",
+      "target": "Whoa@ hurricane force!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "12",
+      "id": "CCO01_03",
+      "source": "Je geeft mij harde vibraties.",
+      "target": "You're giving me some heavy vibrations."
+    },
+    {
+      "section": "TOMMY",
+      "key": "13",
+      "id": "CCO01_04",
+      "source": "Hee@ je raakt mij op bakboord!",
+      "target": "Hey@ you hit my port side!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "14",
+      "id": "CCO01_05",
+      "source": "Ophouden@ jij wegpiraat!",
+      "target": "Stop it@ you road pirate!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "15",
+      "id": "CCO01_06",
+      "source": "Bewaar liever wat energie voor de politie!",
+      "target": "Save some energy for the police!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "16",
+      "id": "CPA01_00",
+      "source": "Ik ga gewoon extreem hard!",
+      "target": "I'm going seriously fast!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "17",
+      "id": "CPA01_01",
+      "source": "Volg de groene golf.",
+      "target": "Ride the green wave."
+    },
+    {
+      "section": "TOMMY",
+      "key": "18",
+      "id": "CPA01_04",
+      "source": "Uit mijn vaarwater@ dude.",
+      "target": "Out of my waters@ dude."
+    },
+    {
+      "section": "TOMMY",
+      "key": "19",
+      "id": "CPA01_05",
+      "source": "Dit is pas een goede golf!",
+      "target": "Now that's a great wave!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "20",
+      "id": "CBP01_00",
+      "source": "Jij geeft mij de wind van voren.",
+      "target": "You're giving me a rough headwind."
+    },
+    {
+      "section": "TOMMY",
+      "key": "21",
+      "id": "CBP01_01",
+      "source": "Ik krijg slechte vibraties van jou.",
+      "target": "I'm getting bad vibes from you."
+    },
+    {
+      "section": "TOMMY",
+      "key": "22",
+      "id": "CBP01_02",
+      "source": "Ik wacht gewoon op de juiste golf!",
+      "target": "I'm just waiting for the right wave!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "23",
+      "id": "CBP01_03",
+      "source": "Niets aan de hand: dit is stilte voor de storm!",
+      "target": "No worries: it's the calm before the storm!"
+    },
+    {
+      "section": "TOMMY",
+      "key": "24",
+      "id": "CBP01_04",
+      "source": "Hee@ je zeilt me zo voorbij!",
+      "target": "Hey@ you're sailing right past me!"
+    },
+    {
+      "section": "KAT",
+      "key": "0",
+      "id": "crc03_00",
+      "source": "harry is beestachtig@ maarrr wij kunnen hem wel aan.",
+      "target": "Harry's a beast@ but we can handle him. Grrr!"
+    },
+    {
+      "section": "KAT",
+      "key": "1",
+      "id": "crc03_01",
+      "source": "harry wil ons achter tralies@ maarrr ik laat me niet kooien.",
+      "target": "Harry wants us behind bars@ but I won't be caged."
+    },
+    {
+      "section": "KAT",
+      "key": "2",
+      "id": "cwa03_00",
+      "source": "de politie ligt weer op de loer. dus wees op je hoede.",
+      "target": "The police are prowling again. Stay on your guard."
+    },
+    {
+      "section": "KAT",
+      "key": "3",
+      "id": "cwa03_01",
+      "source": "let op@ harry en zijn vrienden zijn weer erg actief in deze omgeving.",
+      "target": "Watch out@ Harry and his friends are very active around here."
+    },
+    {
+      "section": "KAT",
+      "key": "4",
+      "id": "cwa03_02",
+      "source": "de politie is allerlei wegen aan het afzetten. laat je niet verrassen.",
+      "target": "The police are blocking all sorts of roads. Don't get caught out."
+    },
+    {
+      "section": "KAT",
+      "key": "5",
+      "id": "ccg03_00",
+      "source": "ik waarschuw jullie alvast! ik ben zo snel als een roofdierrrr!",
+      "target": "I'm warning you now! I'm as fast as a prrredator!"
+    },
+    {
+      "section": "KAT",
+      "key": "6",
+      "id": "ccg03_01",
+      "source": "sorry jongens@ mijn overwinning is onverrrmijdelijk!",
+      "target": "Sorry@ boys@ my victory is inevitable. Grrr!"
+    },
+    {
+      "section": "KAT",
+      "key": "7",
+      "id": "ccg03_02",
+      "source": "probeerrr me niet bij te houden. dat is onmogelijk!",
+      "target": "Don't trrry to keep up. It's impossible!"
+    },
+    {
+      "section": "KAT",
+      "key": "8",
+      "id": "ccf03_00",
+      "source": "de finish nadert. de spanning wordt groter! Wrauw@ geweldig!",
+      "target": "The finish is near. The tension's rising! Meow@ fantastic!"
+    },
+    {
+      "section": "KAT",
+      "key": "9",
+      "id": "cgp03_00",
+      "source": "prrrt! Ik lig op kop! niemand kan me temmen!",
+      "target": "Prrr! I'm in the lead! Nobody can tame me!"
+    },
+    {
+      "section": "KAT",
+      "key": "10",
+      "id": "cgp03_01",
+      "source": "wauw! Ik sta op de eerste plaats. wat een enorrme kick!!",
+      "target": "Wow! I'm in first place. What a thrrrill!"
+    },
+    {
+      "section": "KAT",
+      "key": "11",
+      "id": "CCO03_00",
+      "source": "Alleen honden houden van botsen!",
+      "target": "Only dogs like crashing!"
+    },
+    {
+      "section": "KAT",
+      "key": "12",
+      "id": "CCO03_02",
+      "source": "Hee@ vuile kattenmepper! Ophouden!",
+      "target": "Hey@ you filthy cat-basher! Stop it!"
+    },
+    {
+      "section": "KAT",
+      "key": "13",
+      "id": "CCO03_04",
+      "source": "Mauww@ ik sta aan jouw kant@ hoorrr!",
+      "target": "Meow@ I'm on your side@ you know!"
+    },
+    {
+      "section": "KAT",
+      "key": "14",
+      "id": "CCO03_05",
+      "source": "Waarrr ben je mee bezig@ jij beest!",
+      "target": "What are you doing@ you beast? Grrr!"
+    },
+    {
+      "section": "KAT",
+      "key": "15",
+      "id": "CCO03_06",
+      "source": "Oppassen jij! Dit is mijn terrritorrrium!",
+      "target": "Watch it! This is my terrritory!"
+    },
+    {
+      "section": "KAT",
+      "key": "16",
+      "id": "CPA03_00",
+      "source": "Tja@ roofdieren zijn nu eenmaal superrrsnel!",
+      "target": "Well@ prrredators are naturally super-fast!"
+    },
+    {
+      "section": "KAT",
+      "key": "17",
+      "id": "CPA03_01",
+      "source": "Eerst moet je rustig afwachten@ en dan toeslaan!",
+      "target": "First wait patiently@ then pounce!"
+    },
+    {
+      "section": "KAT",
+      "key": "18",
+      "id": "CPA03_02",
+      "source": "Ik ben zo snel als een tijgerrr!",
+      "target": "I'm as fast as a tigerrr!"
+    },
+    {
+      "section": "KAT",
+      "key": "19",
+      "id": "CPA03_03",
+      "source": "Niemand van jullie kan me temmen!",
+      "target": "None of you can tame me!"
+    },
+    {
+      "section": "KAT",
+      "key": "20",
+      "id": "CPA03_04",
+      "source": "Ik rem niet voor honden: ik haal ze in!",
+      "target": "I don't brake for dogs: I overtake them!"
+    },
+    {
+      "section": "KAT",
+      "key": "21",
+      "id": "CPA03_05",
+      "source": "Ik ben verder poeslief@ hoorrr!",
+      "target": "I'm really as sweet as a kitten@ you know!"
+    },
+    {
+      "section": "KAT",
+      "key": "22",
+      "id": "CBP03_00",
+      "source": "Hee@ Zal ik jou mijn tanden eens laten zien!",
+      "target": "Hey@ want to see my teeth?"
+    },
+    {
+      "section": "KAT",
+      "key": "23",
+      "id": "CBP03_02",
+      "source": "Jij bent zeker geen dierenvriend!",
+      "target": "You're clearly no animal lover!"
+    },
+    {
+      "section": "KAT",
+      "key": "24",
+      "id": "CBP03_03",
+      "source": "Ik hou niet van deze flauwe poespas!",
+      "target": "I don't like this silly cat-and-mouse game!"
+    },
+    {
+      "section": "KAT",
+      "key": "25",
+      "id": "CBP03_04",
+      "source": "Haal me maarrr in@ zo kan ik je prrrima besluipen !",
+      "target": "Go ahead@ overtake me. It'll be easier to stalk you!"
+    }
+  ],
+  "static_entries": [
+    {
+      "section": "quickrace",
+      "key": "lockedchartext",
+      "occurrence": 0,
+      "source": "U ontgrendelt D.T. Harry door een karakter uit te spelen!",
+      "target": "Unlock D.T. Harry by completing the Tour with a character!"
+    },
+    {
+      "section": "char0",
+      "key": "winracetext",
+      "occurrence": 0,
+      "source": "Edgar wint de prijs van zijn leven! Van zijn geld koopt hij nieuwe instrumenten en neemt hij met zijn band een cd op. Daardoor krijgt hij eindelijk zijn felbegeerde platencontract. Hij scoort onmiddellijk een wereldhit en gaat op wereldtournee. Een nieuwe poplegende is geboren!",
+      "target": "Edgar wins the prize of a lifetime! He buys new instruments and records a CD with his band, finally landing his dream record deal. An instant worldwide hit sends him on a world tour. A new pop legend is born!"
+    },
+    {
+      "section": "char0",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Deze Amsterdamse muzikant rijdt zoals hij zijn gitaar bespeelt: niet te snel, langzaam optrekken en naar een climax toewerken. Zijn sterke Amerikaan is makkelijk te besturen en heeft optimale remmen. Waar Edgar ook gaat, hij wordt altijd begeleid door een funky ritme.",
+      "target": "This Amsterdam musician drives the way he plays guitar: take it easy, build up slowly and work towards a big finish. His sturdy American car handles easily and has excellent brakes. Wherever Edgar goes, a funky rhythm follows."
+    },
+    {
+      "section": "char1",
+      "key": "winracetext",
+      "occurrence": 0,
+      "source": "Door het winnen van de race is de droom van surfer Tommie eindelijk uitgekomen. Tommie is nu namelijk de gelukkige eigenaar van Surfclub Paradise. Zo kan hij zich gaan bezighouden met de belangrijke dingen in het leven: surfen en relaxen aan het strand.",
+      "target": "Winning the race makes surfer Tommie's dream come true. He is now the proud owner of Surfclub Paradise, leaving him free to focus on the important things in life: surfing and relaxing on the beach."
+    },
+    {
+      "section": "char1",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Deze 26-jarige surfer scheurt regelmatig in zijn HodRod op zoek naar de perfecte golf. Zijn wagen accelereert als de beste, maar is niet al te sterk. Hij verkent graag de grenzen van de snelheid en gaat er niet vanuit zijn remmen vaak te gebruiken.",
+      "target": "This 26-year-old surfer regularly tears around in his hot rod in search of the perfect wave. His car accelerates brilliantly but isn't very tough. He loves pushing the limits of speed and doesn't expect to use his brakes much."
+    },
+    {
+      "section": "char5",
+      "key": "lockedtext",
+      "occurrence": 0,
+      "source": "U ontgrendelt de supercop door een karakter uit te spelen!",
+      "target": "Unlock the supercop by completing the Tour with a character!"
+    },
+    {
+      "section": "char3",
+      "key": "winracetext",
+      "occurrence": 0,
+      "source": "De smaak van de overwinning is zoet voor Kat! Dat smaakt naar meer. Ze begeeft zich in het professionele racecircuit en wordt zeer succesvol. Haar racefaam zal over de hele wereld reiken. Toch zal de wildaantrekkelijke Kat voor de meeste mensen een mysterie blijven.",
+      "target": "Victory tastes sweet to Kat, and she wants more! She joins the professional racing circuit and becomes a great success. Her racing fame spreads worldwide, but the wildly alluring Kat remains a mystery to most people."
+    },
+    {
+      "section": "char3",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Deze wilde, katachtige dame heeft al vaker de wegen onveilig gemaakt. Hoewel haar temperament anders doet vermoeden, is haar bolide erg stabiel en uitgebalanceerd.  Ze beschikt over een redelijke snelheid en acceleratie. Bovendien kan ze behoorlijk remmen en een aardig stootje verdragen.",
+      "target": "This wild, feline lady has terrorised the roads before. Despite her fiery temper, her car is stable and well balanced. It has decent speed and acceleration, strong brakes and can take a fair amount of punishment."
+    },
+    {
+      "section": "char4",
+      "key": "winracetext",
+      "occurrence": 0,
+      "source": "Feestbeest Barberally wint niet alleen de race, maar ook racer Tommie voor zich. Van het prijzengeld vervult ze Tommie's droom: Surfclub Paradise. Onze Babs heeft gekregen wat ze wilde, en dat vraagt natuurlijk om een feestje!",
+      "target": "Party animal Barbarally wins both the race and Tommie's heart. She uses the prize money to fulfil his dream: Surfclub Paradise. Babs has got what she wanted, and that calls for a party!"
+    },
+    {
+      "section": "char4",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Zij is een totaal onbevreesd feestbeest. Barbarally heeft haar stuurkunsten al aardig geoefend in vele auto's van paps. Maar haar kleurige beachbuggy gaat niet altijd zo hard als ze wel zou willen.",
+      "target": "A fearless party animal, Barbarally has had plenty of driving practice in her dad's many cars. Her colourful beach buggy, however, doesn't always go quite as fast as she'd like."
+    },
+    {
+      "section": "char2",
+      "key": "winracetext",
+      "occurrence": 0,
+      "source": "James heeft de race gewonnen. Hij gaat er vandoor met de jackpot, namelijk: Miss Honeybunny! Uiteindelijk bleek Miss Honeybunny de ultieme uitdaging voor hem. Met haar kan hij een stralende toekomst opbouwen. Hij zal zich settelen en nooit meer naar een andere vrouw kijken! Toch, James?",
+      "target": "James wins the race and takes home the real jackpot: Miss Honeybunny! She turns out to be his ultimate challenge. Together they can build a bright future. He'll settle down and never look at another woman again! Right, James?"
+    },
+    {
+      "section": "char2",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Een ex-geheimagent die kan rijden als de beste. Hij is snel, flitsend en doelgericht. De bolide van deze ervaren coureur heeft een prima wegligging en een uitmuntende acceleratie. Dat moet ook wel, want James houdt niet van remmen.",
+      "target": "A former secret agent who drives with the best of them: fast, flashy and focused. This experienced driver's car handles superbly and accelerates brilliantly. It needs to, because James doesn't like braking."
+    },
+    {
+      "section": "track0",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Stadsrace",
+      "target": "City race"
+    },
+    {
+      "section": "track0",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Deze etappe voert door het drukke Amsterdam. Race over de typisch Amsterdamse grachten en de smalle straatjes en pas op voor de trams.",
+      "target": "This stage takes you through busy Amsterdam. Race along its famous canals and narrow streets, and watch out for trams."
+    },
+    {
+      "section": "track0",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Je manoeuvreerde je als eerste door de drukte. Je toonde een aardig staaltje van techniek en vaardigheid.",
+      "target": "You weaved through the traffic to finish first. An impressive display of technique and skill!"
+    },
+    {
+      "section": "track0",
+      "key": "qualifytext",
+      "occurrence": 0,
+      "source": "Het gaat nog niet echt optimaal. Maar ja, je hebt je toch nog weten te kwalificeren.",
+      "target": "You're not quite at your best yet, but at least you've qualified."
+    },
+    {
+      "section": "track0",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Helaas. Je stuurkunsten hebben je helemaal niets opgeleverd. Misschien zijn rijlessen een idee?",
+      "target": "Unfortunately, your driving skills got you nowhere. Perhaps it's time for some driving lessons?"
+    },
+    {
+      "section": "track1",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Stadsachtervolging",
+      "target": "City chase"
+    },
+    {
+      "section": "track1",
+      "key": "story",
+      "occurrence": 0,
+      "source": "We hadden een race willen rijden door Rotterdam, maar helaas is commissaris D.T. Harry jullie op het spoor. Probeer dus zo snel mogelijk te ontsnappen. Je hebt maar een bepaalde tijd, voordat het politienet zich sluit.",
+      "target": "We planned a race through Rotterdam, but Commissioner D.T. Harry is on our trail. Escape as quickly as you can: you only have a limited time before the police net closes."
+    },
+    {
+      "section": "track1",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Helaas is de A2 Racer Club ons net ontglipt. Uiteraard zetten we onze zoektocht voort. En ik zal er alles aan doen om ze zo snel mogelijk te pakken.",
+      "target": "Unfortunately, the A2 Racer Club has just slipped away. Naturally, our search continues. I'll do everything I can to catch them as soon as possible."
+    },
+    {
+      "section": "track1",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Ik ben uiteraard blij dat we één van de racers hebben opgepakt. Maar ik ben pas tevreden als de hele club is opgerold. Dan kan de rust terugkeren op onze openbare wegen.",
+      "target": "Of course I'm pleased we've arrested one of the racers. But I won't be satisfied until the whole club is behind bars and peace returns to our roads."
+    },
+    {
+      "section": "track2",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Kustrace",
+      "target": "Coastal race"
+    },
+    {
+      "section": "track2",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Welkom bij een nieuw A2 Raceseizoen. We gaan jullie racekwaliteiten weer testen en de beste wordt uiteindelijk flink beloond. De eerste etappe van onze race voert langs het strand van Scheveningen. Ga meteen voluit want deze etappe is over voordat je het weet.",
+      "target": "Welcome to a new A2 racing season! We'll test your driving skills, with a big reward for the best racer. Our first stage follows Scheveningen's beach. Go flat out from the start: it'll be over before you know it!"
+    },
+    {
+      "section": "track2",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Je bent als eerste binnen. Je begint er al aardig in te komen. Hopelijk blijf je zo presteren.",
+      "target": "You've finished first! You're getting the hang of this. Let's hope you keep it up."
+    },
+    {
+      "section": "track2",
+      "key": "qualifytext",
+      "occurrence": 0,
+      "source": "Je moet er nog een beetje inkomen, maar je bent in ieder geval door naar de volgende etappe.",
+      "target": "You're still finding your feet, but at least you're through to the next stage."
+    },
+    {
+      "section": "track2",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Dat is nou jammer! Je bent nog niet toe aan dit niveau.",
+      "target": "What a shame! You're not ready for this level yet."
+    },
+    {
+      "section": "track3",
+      "key": "name",
+      "occurrence": 0,
+      "source": "Wenen",
+      "target": "Vienna"
+    },
+    {
+      "section": "track3",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Stadsachtervolging",
+      "target": "City chase"
+    },
+    {
+      "section": "track3",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Harry is er achtergekomen dat we ons in Wenen bevinden. Op dit moment is hij de stad aan het afsluiten. De enige manier om aan Harry te ontkomen, is vol gas dwars door Wenen.",
+      "target": "Harry has discovered we're in Vienna. He's sealing off the city right now. The only way to escape is to race flat out through Vienna."
+    },
+    {
+      "section": "track3",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Het ziet er helaas niet goed uit. De A2 Racer Club wist weer aan ons te ontsnappen.",
+      "target": "Unfortunately, things don't look good. The A2 Racer Club has escaped us again."
+    },
+    {
+      "section": "track3",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Het was inderdaad niet makkelijk om deze racer te kunnen arresteren. Maar het is mij uiteindelijk toch gelukt! Nu moet de rest van die club nog achter de tralies. Maar daar zorg ik wel voor. Dan kan iedereen zich weer veilig voelen.",
+      "target": "Arresting this racer certainly wasn't easy, but I managed it in the end! Now the rest of the club needs to go behind bars. I'll see to that, so everyone can feel safe again."
+    },
+    {
+      "section": "track4",
+      "key": "name",
+      "occurrence": 0,
+      "source": "Berlijn",
+      "target": "Berlin"
+    },
+    {
+      "section": "track4",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Stadsachtervolging",
+      "target": "City chase"
+    },
+    {
+      "section": "track4",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Harry heeft ons tot in Berlijn getraceerd. Hij heeft een ultimatum gekregen van zijn superieuren, dus hij is bloedfanatiek. Zorg dat je zo snel mogelijk wegkomt!",
+      "target": "Harry has tracked us all the way to Berlin. His superiors have given him an ultimatum, so he's more determined than ever. Get away as quickly as you can!"
+    },
+    {
+      "section": "track4",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Dat was spannend! Maar het is je gelukt! Van harte gefeliciteerd! Je bent verdiend winnaar van dit A2 raceseizoen! Je hebt commissaris Harry er totaal uitgereden. Overigens zullen we van hem voorlopig geen last meer hebben. Hij zal namelijk binnenkort met zijn nieuwe baan beginnen als hoofdparkeerwachter in.... Siberië.",
+      "target": "That was close, but you made it! Congratulations! You're the well-deserved winner of this A2 racing season. You left Commissioner Harry far behind. He won't be bothering us for a while: he's about to start his new job as chief parking warden in... Siberia."
+    },
+    {
+      "section": "track4",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Gelukkig is de gehele A2 Racer Club opgerold. Die snelheidsduivels kunnen onze wegen niet langer terroriseren. Uiteraard heb ik geen moment getwijfeld aan mijn plan van aanpak. Het recht overwint uiteindelijk altijd!",
+      "target": "Thankfully, the entire A2 Racer Club has been rounded up. Those speed demons can no longer terrorise our roads. Naturally, I never doubted my plan for a moment. Justice always wins in the end!"
+    },
+    {
+      "section": "track5",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Havenrace",
+      "target": "Harbour race"
+    },
+    {
+      "section": "track5",
+      "key": "story",
+      "occurrence": 0,
+      "source": "We hebben Harry van ons afgeschud en willen dat graag zo houden. Daarom gaan we naar de haven van Hamburg met zijn schepen, dokken en volgeladen kades. Een uitstekende locatie om ongestoord te racen.",
+      "target": "We've shaken off Harry and we'd like to keep it that way. We're heading to Hamburg's harbour, with its ships, docks and busy quays: the perfect place to race undisturbed."
+    },
+    {
+      "section": "track5",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Zo, dat was behoorlijk spannend zeg! Maar je bleef koelbloedig en wist de race naar je hand te zetten. Je hebt gewonnen. Mijn complimenten!",
+      "target": "That was exciting! You kept your cool and took control of the race. You've won. My compliments!"
+    },
+    {
+      "section": "track5",
+      "key": "qualifytext",
+      "occurrence": 0,
+      "source": "Dit was toch zwaarder dan je dacht, hè? Je moet echt meer dan 100% geven wil je in de volgende etappe kans op de overwinning maken.",
+      "target": "Harder than you expected, wasn't it? You'll need to give more than 100% to have a chance of winning the next stage."
+    },
+    {
+      "section": "track5",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Dat vind ik nou echt jammer. Dan ben je al zover gekomen en dan laat je het zo afweten. Volgende keer beter!",
+      "target": "What a shame. You came so far, only to let us down now. Better luck next time!"
+    },
+    {
+      "section": "track6",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Vliegveldrace",
+      "target": "Airport race"
+    },
+    {
+      "section": "track6",
+      "key": "story",
+      "occurrence": 0,
+      "source": "Piloten opgelet! We gaan racen op een plek waar de politie ons nooit verwacht: het vliegveld van Frankfurt. Scheur dwars de vertrekhal, de hangar en over de start- en landingsbanen. En kijk goed uit voor de jumbojets!",
+      "target": "Attention, pilots! We're racing where the police will never expect us: Frankfurt Airport. Tear through the departure hall and hangar, and across the runways. Watch out for jumbo jets!"
+    },
+    {
+      "section": "track6",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Je hebt je bewezen! Je bent echt een topcoureur. Je liet gewoon iedereen ver achter je. Gefeliciteerd!! Jij bent met recht de winnaar.",
+      "target": "You've proved yourself a top driver! You left everyone far behind. Congratulations! You're a worthy winner."
+    },
+    {
+      "section": "track6",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Jammer, maar helaas! Je miste net dat die laatste adem. Je zal volgende keer toch net iets meer moeten geven om ons te overtuigen.",
+      "target": "So close, yet so far! You ran out of steam at the end. You'll need to give a little more next time to impress us."
+    },
+    {
+      "section": "track7",
+      "key": "name",
+      "occurrence": 0,
+      "source": "BodenSee",
+      "target": "Lake Constance"
+    },
+    {
+      "section": "track7",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Drielandenrace",
+      "target": "Three-country race"
+    },
+    {
+      "section": "track7",
+      "key": "story",
+      "occurrence": 0,
+      "source": "We zijn ontsnapt, maar uit voorzorg wijken we uit naar Duitsland, Zwitserland en Oostenrijk. We gaan namelijk crossen rond de Bodensee. Je kan bergen, bossen, tunnels en vele bochten verwachten.",
+      "target": "We've escaped, but as a precaution we're heading for Germany, Switzerland and Austria to race around Lake Constance. Expect mountains, forests, tunnels and plenty of bends."
+    },
+    {
+      "section": "track7",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Je bent de winnaar van deze etappe. Dat bochtenwerk heb je al redelijk onder de knie!",
+      "target": "You've won this stage. You're getting pretty good at those corners!"
+    },
+    {
+      "section": "track7",
+      "key": "qualifytext",
+      "occurrence": 0,
+      "source": "Dat ging best aardig. Je moet nog wat werken aan die bochten van je, anders overleef je de volgende etappe echt niet.",
+      "target": "Not bad, but you still need to work on your cornering or you won't survive the next stage."
+    },
+    {
+      "section": "track7",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "'t is triest, maar waar. Het is over en uit. Probeer het nog eens als je geoefend hebt.",
+      "target": "Sad but true: it's all over. Try again once you've had some practice."
+    },
+    {
+      "section": "track8",
+      "key": "name",
+      "occurrence": 0,
+      "source": "Munchen - Wenen",
+      "target": "Munich - Vienna"
+    },
+    {
+      "section": "track8",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Snelwegrace",
+      "target": "Motorway race"
+    },
+    {
+      "section": "track8",
+      "key": "story",
+      "occurrence": 0,
+      "source": "We nemen nu de snelweg van München naar Wenen. Je komt bergen, haarspeldbochten, grote hoogteverschillen en donkere tunnels tegen. Kortom, een ideale raceweg.",
+      "target": "We're taking the motorway from Munich to Vienna. Expect mountains, hairpin bends, steep climbs and dark tunnels. In other words, the perfect racing road."
+    },
+    {
+      "section": "track8",
+      "key": "wintext",
+      "occurrence": 0,
+      "source": "Dat was een goede rit! Je liet de rest in het stof bijten! Ga zo door!",
+      "target": "Great driving! You left everyone else eating your dust! Keep it up!"
+    },
+    {
+      "section": "track8",
+      "key": "qualifytext",
+      "occurrence": 0,
+      "source": "Oké, dat ging even lekker, maar toch weer een terugval. Je hebt je in ieder geval gekwalificeerd. Maar ik weet dat je het veel beter kan.",
+      "target": "You had a good run, then slipped back again. At least you've qualified, but I know you can do much better."
+    },
+    {
+      "section": "track8",
+      "key": "losetext",
+      "occurrence": 0,
+      "source": "Je liet je er helemaal uit rijden door die snelle racers. Misschien wordt het tijd voor een ritje op je skelter. Want dit is niets voor jou!",
+      "target": "Those speedsters left you far behind. Perhaps it's time for a ride in your pedal kart. This clearly isn't for you!"
+    },
+    {
+      "section": "track9",
+      "key": "name",
+      "occurrence": 0,
+      "source": "Download-race",
+      "target": "Download race"
+    },
+    {
+      "section": "track9",
+      "key": "type",
+      "occurrence": 0,
+      "source": "Country-race",
+      "target": "Country race"
+    },
+    {
+      "section": "tuneups",
+      "key": "specs0",
+      "occurrence": 0,
+      "source": "Motor,2300,3,1,0,-1",
+      "target": "Engine,2300,3,1,0,-1"
+    },
+    {
+      "section": "tuneups",
+      "key": "text0",
+      "occurrence": 0,
+      "source": "Een goed afgestelde motor zal de acceleratie verbeteren en de topsnelheid verhogen.",
+      "target": "A well-tuned engine improves acceleration and top speed."
+    },
+    {
+      "section": "tuneups",
+      "key": "specs1",
+      "occurrence": 0,
+      "source": "Banden,1700,0,0,0,4",
+      "target": "Tyres,1700,0,0,0,4"
+    },
+    {
+      "section": "tuneups",
+      "key": "text1",
+      "occurrence": 0,
+      "source": "Nieuwe banden zorgen voor een uitstekende wegligging.",
+      "target": "New tyres provide excellent handling."
+    },
+    {
+      "section": "tuneups",
+      "key": "specs2",
+      "occurrence": 0,
+      "source": "ABS Bremsen,1500,0,0,4,0",
+      "target": "ABS brakes,1500,0,0,4,0"
+    },
+    {
+      "section": "tuneups",
+      "key": "text2",
+      "occurrence": 0,
+      "source": "Een oliebeurt voor de remmen zorgt voor extra remkracht.",
+      "target": "Servicing the brakes gives you extra stopping power."
+    },
+    {
+      "section": "tuneups",
+      "key": "specs3",
+      "occurrence": 0,
+      "source": "Getriebe,2300,1,3,0,-1",
+      "target": "Gearbox,2300,1,3,0,-1"
+    },
+    {
+      "section": "tuneups",
+      "key": "text3",
+      "occurrence": 0,
+      "source": "Een juist afgestelde versnellingsbak zal de maximumsnelheid aanzienlijk verhogen.",
+      "target": "A correctly tuned gearbox greatly increases top speed."
+    },
+    {
+      "section": "tuneups",
+      "key": "text4",
+      "occurrence": 0,
+      "source": "De turbo kun je bijvullen met turbo-olie. Deze kun je onderweg ook oppakken.",
+      "target": "Refill the turbo with turbo oil. You can also collect it on the road."
+    },
+    {
+      "section": "char6",
+      "key": "name",
+      "occurrence": 0,
+      "source": "politie-auto",
+      "target": "Police car"
+    },
+    {
+      "section": "char8",
+      "key": "lockedtext",
+      "occurrence": 0,
+      "source": "Dit karakter kan je downloaden van het Internet",
+      "target": "Download this character from the Internet"
+    }
+  ],
+  "static_continuations": [
+    {
+      "source": "Helaas heb ik slecht nieuws voor je, want je zult even op je prijs moeten wachten. ",
+      "target": "Sadly, I have bad news: you'll have to wait a little for your prize. "
+    }
+  ]
+}
