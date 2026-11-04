@@ -1,4 +1,4 @@
-# Davilex Toolkit â€” initial release
+# Davilex Toolkit v0.1.0
 
 Launcher and RCS Explorer for seven supported Davilex racing games, with custom
 resolutions, aspect-correct HUDs, optional English text, XInput support, Quick
