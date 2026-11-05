@@ -29,6 +29,20 @@ Games can remain in their existing folders, or sit together in a `games` folder 
 
 For updates, close the toolkit and games, then replace the application files with the new release. Keep your games and the toolkit's `work` folder: it contains settings and original-file backups.
 
+## Playing without the disc
+
+Install the game from your own disc first. If you need any of the files below, **copy** them from the disc or mounted image into the game installation, keeping their original names. Then eject the disc and use **Play full game** in the toolkit. The launcher sets the game's NoCD override for you.
+
+| Game | Files to check before launching without the disc |
+| --- | --- |
+| A2 Racer IV and Holiday Racer | Keep the original `intro1.mpg` beside `menu.exe`. If it is missing, copy it from your matching edition. The launcher checks the file against the supported edition and sets the menu's local path automatically. |
+| Europe Racer | On the tested English Xplosiv disc, copy `Music.IMG`, `Music.IND` and `Music.CHK` from `EuropeRacer\Menu\` into the installed `Menu\` folder if they are missing. Keep the installed `Graphics`, `Voices` and `Extra` archive sets in that same folder. If any of their `.IMG`, `.IND` or `.CHK` files are missing, restore them from the matching installation media. The toolkit configures the menu to use these local archives. |
+| A2 Racer II, Autobahn Raser II, London Racer and Paris–Marseille Racing | The tested installations needed no extra disc files copied for menu and race startup. Start them through the toolkit to get the NoCD override. |
+
+For Europe Racer, the tested English disc also has `Intro.avi`, `Adv.avi`, `AdvWin.avi`, `standard.avi`, `ATV.avi` and `sport.avi` in `Langdata\Uk\Media\`. Copy them into the installed `Menu\Media\` folder if you want the original files available for the menu's movie paths. The music archive is separate and supplies menu audio, including effects required at startup.
+
+The toolkit deliberately skips the startup intro in A2 Racer IV, Holiday Racer and Europe Racer so the menu can open. A2 Racer IV and Holiday Racer still check for the original intro file. Playback of other menu movies has not been verified.
+
 ## Features
 
 - Compatibility fixes for starting races, menu-to-engine handoff, timing and known rendering issues.
